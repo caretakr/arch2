@@ -187,7 +187,7 @@
 
 15. Install packages from scratch on system:
 
-        $ pacstrap /mnt base
+        $ pacstrap /mnt base linux linux-firmware
 
 16. Generate `fstab`:
 
